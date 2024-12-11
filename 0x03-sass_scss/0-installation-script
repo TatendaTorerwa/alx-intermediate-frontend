@@ -1,0 +1,9 @@
+# Installed node version 20.16 using:
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+# Exited the terminal using the exit command and then reopened it
+
+# Installed SASS by using the following command:
+$ npm install sass@3.7.4
+
+# Created an empty file named '0-installation-script' and documented the steps I took to install SASS.
